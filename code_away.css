@@ -1,0 +1,100 @@
+body {
+    background-color: #12154c;
+    padding: 5px;
+    padding-bottom: 10px;
+}
+
+#home_appstart {
+    color: white;
+    font-family: Gochi Hand;
+    font-size: 20px;
+    letter-spacing: 2px;
+    float: right;
+    margin-top:-33px;
+    margin-right: 15px;
+}
+
+#div_appstart {
+    background-color: #ffffff;
+    width: 1015;
+    height: 540px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#div_left {
+    text-align: left;
+}
+
+#img_home_page {
+    float: right; 
+    margin-top:-45px;
+    margin-right: 15px;
+}
+
+#heading_appstart{
+    color: white;
+    font-family: Gochi Hand;
+    font-size: 20px;
+}
+
+#input{
+    width: 100%;
+    height: 30px;
+    font-size: 20px;
+    font-family: Gochi Hand;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#div_appstart_recents{
+    margin-top: 2px;
+}
+
+.button_recents{
+    color: white;
+    background-color: #f6530f;
+    font-family: Gochi Hand;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+#div_contain_item{
+    background-color: white;
+    height: 1210px;
+    width: 100%;
+    padding: 5px;
+    margin-top: 3px;
+}
+
+#center_appstart{
+    margin-top: 5px;
+}
+
+#div_left_item{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 1190px;
+    overflow: auto;
+    padding: 5px;
+    margin-top: -1200px;
+    margin-left: 5px;
+}
+
+.p_app_start{
+    font-size: 16px;
+    margin-left: 250px;
+    font-family:  Verdana;
+    margin-top: 15px;
+    color: black;
+}
+
+.button_left_class{
+    padding: 5px;
+    font-family: Verdana;
+    color: rgb(255, 255, 255);
+    background-color: #f6530f;
+    width: 170px;
+    text-align: left;
+}
